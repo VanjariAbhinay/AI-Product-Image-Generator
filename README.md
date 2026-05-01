@@ -5,7 +5,7 @@ A Generative AI tool built with Stable Diffusion and Gradio to automate product 
 An end-to-end Generative AI application that transforms text descriptions into high-quality product photography using Stable Diffusion and Gradio.
 
 ## 🚀 Live Demo & Code
-* **Kaggle Notebook:** [Run the code here](https://www.kaggle.com/code/abhinayvanjari/ai-product-image-generator-with-gradio)
+* **Kaggle Notebook:** [Run the code here](https://www.kaggle.com/code/abhinayvanjari/ai-product-image-generator-fv)
 * **Built With:** Python, Gradio, Hugging Face Diffusers
 
 ## 🛠️ Key Features
